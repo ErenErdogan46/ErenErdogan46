@@ -1,6 +1,4 @@
--  Hi, I’m Eren Erdoğan
--  I’m interested in Data Science, AI, Machine Learning, and applied maths.
--  I am currently preparing for Olympiads in Informatics.
+- Algorithms implementations in C/C++
 
 
 

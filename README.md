@@ -1,4 +1,4 @@
-- Algorithms implementations in C/C++
+- Algorithm implementations in C/C++
 
 
 
